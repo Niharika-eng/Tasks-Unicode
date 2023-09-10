@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(12, 12, 71);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:navajowhite;
+}
+
+a{
+    color: navajowhite;
+}
+
+a:hover{
+    color:darkorange;
+}

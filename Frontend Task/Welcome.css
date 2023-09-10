@@ -1,0 +1,40 @@
+#intro {
+  text-align: center;
+}
+
+
+
+body {
+    background-color: rgb(12, 12, 71);
+    color: navajowhite;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  a {
+    color: navajowhite;
+  }
+
+  a:hover{
+    color: rgb(240, 142, 15);
+  }
+
+  img {
+    border-radius: 20px;
+    height: 350px;
+    width: 20%;
+  }
+
+  .bodies {
+    text-align: center;
+
+  }
+  
+  img{
+
+    display: inline-block;
+    
+    }
+  
+    #actions {
+      text-align: left;
+    }

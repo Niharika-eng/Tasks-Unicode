@@ -1,0 +1,69 @@
+Events list for Unicode Task
+
+
+
+_id :64cfff94a66d997a6e007c2f
+name":"Summer Music Festival
+description":"Join us for a day of music, fun, and sun at our annual Summer Music Festival!
+date":"2023-08-20
+time":"15:00
+venue":"Sunset Park Amphitheater
+category":"Music
+ticketPrice":50
+totalTickets":1000
+availableTickets":800
+bookedTickets":200
+createdAt":"2023-08-06
+updatedAt":"2023-08-06
+
+
+id":"64d00002e6089cd9fc00452f
+name":"Soccer Championship"
+description":"Cheer for your favorite teams as they battle for the ultimate glory in the Soccer Championship.
+date":"2023-09-10
+time":"18:30
+"venue":"City Stadium
+category":"Sports
+ticketPrice":30
+totalTickets":5000
+availableTickets":3500
+bookedTickets":1500
+createdAt":"2023-08-06
+updatedAt":"2023-08-06
+
+
+id":"64d001e9cc7848180a92bbc8"
+"name":"Cirque du Mystique
+description":"Step into a world of wonder and enchantment with Cirque du Mystique's mesmerizing performance.
+date":"2023-08-28
+time":"19:00"
+venue":"Grand Theatre
+category":"Theater
+ticketPrice":70
+totalTickets":800
+availableTickets":400
+bookedTickets":400,
+createdAt":"2023-08-06
+updatedAt":"2023-08-06
+
+
+id":"64d00d6a334f0b75efa8eb6f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

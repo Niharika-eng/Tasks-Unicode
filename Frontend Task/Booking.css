@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(12, 12, 71);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:navajowhite;
+}
+P{
+    font-size: small;
+}
+
+a{
+    color: navajowhite;
+}
+
+a:hover{
+    color:darkorange;
+}
